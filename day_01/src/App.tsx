@@ -1,5 +1,4 @@
-import React from 'react'
-import ProfileCard from './components/profileCard'
+import ProfileCard from './components/ProfileCard'
 
 const App = () => {
   return (
@@ -11,4 +10,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
